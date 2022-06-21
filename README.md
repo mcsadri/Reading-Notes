@@ -1,3 +1,12 @@
+Lab 01b updates:
+
+Personally, I've never had much of a growth mindset. Growth is change, and change is hard. The inertia of standing still is difficult to overcome. This Code Fellows experience will be an uphill challenge, one I hope I can rise to meet.
+1. One day at a time
+2. It's good to fail, and then try, try again.
+3. No pain, no gain.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mcsadri/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
