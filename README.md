@@ -3,6 +3,7 @@ Personally, I've never had much of a growth mindset. Growth is change, and chang
 2. It's good to fail, and then try, try again.
 3. No pain, no gain.
 
+[Markdown.md](https://github.com/mcsadri/Reading-Notes/blob/109166af8343fc4fcae3a8365ff41a986b7c9955/markdown.md)
 
 
 ## Welcome to GitHub Pages
