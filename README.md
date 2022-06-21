@@ -1,5 +1,3 @@
-Lab 01b updates:
-
 Personally, I've never had much of a growth mindset. Growth is change, and change is hard. The inertia of standing still is difficult to overcome. This Code Fellows experience will be an uphill challenge, one I hope I can rise to meet.
 1. One day at a time
 2. It's good to fail, and then try, try again.
