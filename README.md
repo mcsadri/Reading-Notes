@@ -1,45 +1,14 @@
-Personally, I've never had much of a growth mindset. Growth is change, and change is hard. The inertia of standing still is difficult to overcome. This Code Fellows experience will be an uphill challenge, one I hope I can rise to meet.
-1. One day at a time
-2. It's good to fail, and then try, try again.
-3. No pain, no gain.
+# Hello, World
 
-[Markdown.md](https://github.com/mcsadri/Reading-Notes/blob/109166af8343fc4fcae3a8365ff41a986b7c9955/markdown.md)
+Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/his. After working in tech for nearly 20 years I'm branching into software development. I'm nervous but excited for this journey.
+- [GitHub](https://github.com/mcsadri/)
+- [LinkedIn](www.linkedin.com/in/manuch-sadri-3268743)
 
+## Growth Mindset:
+Personally, I've never had much of a growth mindset. As someone with ADHD growth is change, and change with ADHD is incredibly hard. The inertia of standing still is difficult to overcome. This Code Fellows experience will be an uphill challenge, one I hope I can rise to meet. To do so I will need to be kind to myself:
+- [ ] One day at a time. This is a marathon.
+- [ ] It's okay to fail as long as I try again.
+- [ ] It's supposed to be difficult, but I can do this.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mcsadri/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcsadri/Reading-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Class notes:
+[Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/8dc591d26809cfc507872702865d8d99b796736c/markdown.md)
