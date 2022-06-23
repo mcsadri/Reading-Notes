@@ -28,3 +28,14 @@ Text editor options:
  Differences between text editors and Integrated Development Environments (IDEs)
  - A text editor only provides features for editing text/code
  - IDEs will include a text editor, file manager, compiler, and debugger
+
+
+### Terminal CLI cheat sheet
+ls = list files
+pwd = print working directory
+cd = change directory
+mkdir = make directory
+cp = copy file
+mv = move file
+man [cmd] = help/manual page for requested cmd
+rm -rf = kill it with fire
