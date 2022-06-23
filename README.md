@@ -12,4 +12,4 @@ Personally, I've never had much of a growth mindset. As someone with ADHD growth
 
 ## Class notes:
 1. [Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/8dc591d26809cfc507872702865d8d99b796736c/markdown.md)
-2. [Code 102: Day 2](https://github.com/mcsadri/Reading-Notes/blob/11e4960bb4911ad61ec480f1c8e23ae33de6f187/daytwo.md)
+2. [Code 102: Day 2](https://github.com/mcsadri/Reading-Notes/blob/13c828772de380e492f8f8b3c6035a0259193d0f/daytwo.md)
