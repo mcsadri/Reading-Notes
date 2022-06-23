@@ -2,6 +2,7 @@
 
 ### Text Editors
 What is a text editor?
+
 - software used for writing and editting text and code
 - an essential tool for software developers
 - useful features
@@ -11,6 +12,7 @@ What is a text editor?
   - extensions
 
 Text editor options:
+
 - OS native plain text editor (e.g. Windows Notepad)
   - will not support features listed above
   - will/should not support text formatting
@@ -26,11 +28,13 @@ Text editor options:
   - Sublime ([sublimetext.co/](https://www.sublimetext.com/))
  
  Differences between text editors and Integrated Development Environments (IDEs)
+
  - A text editor only provides features for editing text/code
  - IDEs will include a text editor, file manager, compiler, and debugger
 
 
 ### Terminal CLI cheat sheet
+
 - ls = list files
 - pwd = print working directory
 - cd = change directory
