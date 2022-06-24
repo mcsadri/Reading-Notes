@@ -51,13 +51,21 @@ Creating a repo on GitHub
 
 - Repos can be named anything
 - But pick something meaningful
-- …
+- Add a description
+- Make Public
+- Check: *Add a Readme file*
+- Click: *Create repository*
 
 Linking repos
 
-- Congrats you just made a new repo
-- Now we need to copy
+- You just made a new repo
+- Now we need to copy this repo onto our computer, and connect the two repos to each other
+- If they're connected, they can give and receive code from the other repo
+- We'll do this by **cloning**: from the cloud, to our local machine
 
-Clone that repo
+Git cli cheat sheet
 
-- ...
+- `git clone {url}` to clone your repo from GitHub to your local machine
+- `git add .` add all the files you changed to be tracked by git
+- `git commit -m "message here"` - to commit your changes with a descriptive WHY comment
+- `git push origin main` to send those changes to GitHub
