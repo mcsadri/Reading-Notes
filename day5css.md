@@ -69,7 +69,6 @@ When a browser reads a style sheet, it will format the HTML document according t
 
 ## Additional information
 
-[MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-[MeyerWebb CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
-
+- [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [MeyerWebb CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
   - "The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on"
