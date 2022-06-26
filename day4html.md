@@ -70,7 +70,7 @@ In CSS, consider styling a list with li elements representing different types of
 
 ### Semantics in HTML
 
-In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+In HTML, for example, the `<h1>` element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
 
 Some of the benefits from writing semantic markup are as follows:
 
