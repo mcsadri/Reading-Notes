@@ -3,7 +3,7 @@
 Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/his. After working in tech for nearly 20 years I'm branching into software development. I'm nervous but excited for this journey.
 
 - [GitHub](https://github.com/mcsadri/)
-- [LinkedIn](https://www.linkedin.com/in/manuch-sadri-3268743)
+- [LinkedIn](https://www.linkedin.com/in/manuch-sadri)
 
 ## Table of Contents
 
@@ -14,5 +14,5 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 5. [Code 102: Day 4](https://github.com/mcsadri/Reading-Notes/blob/main/day4html.md)
 6. [Code 102: Day 5](https://github.com/mcsadri/Reading-Notes/blob/main/day5css.md)
 7. [Code 102: Day 6](https://github.com/mcsadri/Reading-Notes/blob/main/day6javascript.md)
-8. [Code 102: Day 7](tbd)
+8. [Code 102: Day 7](https://github.com/mcsadri/Reading-Notes/blob/main/day7javascriptCont.md)
 9. [Code 102: Day 8](tbd)
