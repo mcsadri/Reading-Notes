@@ -29,12 +29,12 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 102 Reading Notes
 
-1. [Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/growth.md)
-2. [Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/main/markdown.md)
-3. [Code 102: Day 2](https://github.com/mcsadri/Reading-Notes/blob/main/daytwo.md)
-4. [Code 102: Day 3](https://github.com/mcsadri/Reading-Notes/blob/main/day3.md)
-5. [Code 102: Day 4](https://github.com/mcsadri/Reading-Notes/blob/main/day4html.md)
-6. [Code 102: Day 5](https://github.com/mcsadri/Reading-Notes/blob/main/day5css.md)
-7. [Code 102: Day 6](https://github.com/mcsadri/Reading-Notes/blob/main/day6javascript.md)
-8. [Code 102: Day 7](https://github.com/mcsadri/Reading-Notes/blob/main/day7javascriptCont.md)
-9. [Code 102: Day 8](https://github.com/mcsadri/Reading-Notes/blob/main/day8evenmorejavascript.md)
+1. [Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/growth.md)
+2. [Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/markdown.md)
+3. [Code 102: Day 2](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/daytwo.md)
+4. [Code 102: Day 3](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day3.md)
+5. [Code 102: Day 4](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day4html.md)
+6. [Code 102: Day 5](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day5css.md)
+7. [Code 102: Day 6](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day6javascript.md)
+8. [Code 102: Day 7](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day7javascriptCont.md)
+9. [Code 102: Day 8](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day8evenmorejavascript.md)
