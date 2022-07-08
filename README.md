@@ -11,21 +11,21 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 201 Reading Notes
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. tbd
+2. tbd
+3. tbd
+4. tbd
+5. tbd
+6. tbd
+7. tbd
+8. tbd
+9. tbd
+10. tbd
+11. tbd
+12. tbd
+13. tbd
+14. tbd
+15. tbd
 
 ### Code 102 Reading Notes
 
