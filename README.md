@@ -1,11 +1,33 @@
 # Hello, World
 
-Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/his. After working in tech for nearly 20 years I'm branching into software development. I'm nervous but excited for this journey.
+Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/his. After working in tech for nearly 20 years I'm branching into software development. This page will hold my reading notes from my Code Fellows software development courses.
+
+## Links
 
 - [GitHub](https://github.com/mcsadri/)
 - [LinkedIn](https://www.linkedin.com/in/manuch-sadri)
 
-## Table of Contents
+## Reading Notes Table of Contents
+
+### Code 201 Reading Notes
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+### Code 102 Reading Notes
 
 1. [Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/growth.md)
 2. [Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/main/markdown.md)
