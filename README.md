@@ -11,7 +11,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 201 Reading Notes
 
-1. tbd
+1. [Code 201 - Class 01](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
 2. tbd
 3. tbd
 4. tbd
@@ -38,3 +38,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 7. [Code 102: Day 6](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day6javascript.md)
 8. [Code 102: Day 7](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day7javascriptCont.md)
 9. [Code 102: Day 8](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/day8evenmorejavascript.md)
+
+## Collaboration Attribution
+
+[collab.md](https://github.com/mcsadri/Reading-Notes/blob/main/collab.md)
