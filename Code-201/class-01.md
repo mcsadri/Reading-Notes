@@ -26,7 +26,7 @@ High level design process steps:
 - Clients (e.g. personal computer, mobile phone, etc.) are internet connected devices with software used to submit requests for data or to interact with data on servers
 - Servers are remote computer that server webpages, apps, etc. The server responds and send the requested data for the client
 
-#### Other components:
+#### Other components
 
 - Internet/network connection
 - TCP/IP
@@ -36,7 +36,7 @@ High level design process steps:
   - Code files
   - Assets
 
-#### Other concepts:
+#### Other concepts
 
 - Order of parsing component files
 - What is DNS?
@@ -74,13 +74,13 @@ Comments are used to insert snippets of text in your code that are ignored durin
 ---
 Reading question/task answers:
 
-1. A haiku:
+- A haiku:
 
 > browser sends request
 > servers says yes here's data
 > puzzle assembled
 
-2. The following is borrowed from [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#order_in_which_component_files_are_parsed)
+- The following is borrowed from [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#order_in_which_component_files_are_parsed)
 
 >The browser parses the HTML file first, and that leads to the browser recognizing any `<link>`-element references to external CSS stylesheets and any `<script>`-element references to scripts.
 >
@@ -90,15 +90,15 @@ Reading question/task answers:
 >
 >As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.
 
-3. An easy way to find image assets is search Google Images and download items suitable to the need. It's recommended to use Google's license filter to only search images with a Creative Commons license to avoid copyright violation.
-4. When declaring a **string** enclose the value in single-quotes, vs. when declaring a **number** the numeric value does not go in quotes. E.g.
+- An easy way to find image assets is search Google Images and download items suitable to the need. It's recommended to use Google's license filter to only search images with a Creative Commons license to avoid copyright violation.
+- When declaring a **string** enclose the value in single-quotes, vs. when declaring a **number** the numeric value does not go in quotes. E.g.
 
 ```javascript
 let userName = "Thomas";
 let userAge = 25;
 ```
 
-5. Variables are containers to hold data values. Variables are essential in code for referencing, and manipluating information.
+- Variables are containers to hold data values. Variables are essential in code for referencing, and manipluating information.
 
 ---
 
@@ -145,11 +145,10 @@ Information stored in the HTML `<head>` is not displayed. It contains webpage me
 ---
 Reading question/task answers:
 
-1. Attributes contain additional information that describe an element. They could assign an element ID, set a color, or provide an href among other possibilities.
-2. Most HTML element are structured as: `<opening tag>`content`</closing tag>`. The opening tag may also inlcude one or more attributes.
-3. An `<article>` is used to encapsulate a block of related content that's independent of the rest of the page's content. The `<section>` element is used to encapsulate a single component of a webpage's functionality.
-4. The HTML elements of a typical webiste include (but not limited to) the following:
-
+- Attributes contain additional information that describe an element. They could assign an element ID, set a color, or provide an href among other possibilities.
+- Most HTML element are structured as: `<opening tag>`content`</closing tag>`. The opening tag may also inlcude one or more attributes.
+- An `<article>` is used to encapsulate a block of related content that's independent of the rest of the page's content. The `<section>` element is used to encapsulate a single component of a webpage's functionality.
+- The HTML elements of a typical webiste include (but not limited to) the following:
   - `<html>`
   - `<head>`
   - `<body>`
@@ -159,9 +158,8 @@ Reading question/task answers:
   - `<section>`
   - `<article>`
   - `<footer>`
-
-5. Keyword metadata can help a webpage appear higher in search results performed by search engine via Search Engine Optimization.
-6. the `<meta>` tag uses `name` and `content` attributes to define metadata content. (e.g. `<meta name="author" content="Manuch Sadri">`)
+- Keyword metadata can help a webpage appear higher in search results performed by search engine via Search Engine Optimization.
+- the `<meta>` tag uses `name` and `content` attributes to define metadata content. (e.g. `<meta name="author" content="Manuch Sadri">`)
 
 ---
 
