@@ -18,7 +18,7 @@ Blockquotes:
 >If a section of block level content (be it a paragraph, multiple paragraphs, a list, etc.) is quoted from somewhere else, you should wrap it inside a `<blockquote>` element to signify this, and include a URL pointing to the source of the quote inside a `cite` attribute  [from MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#quotations)
 
 Inline quotes:
-> Inline quotations work in exactly the same way, except that they use the <q> element. [from MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#quotations)
+> Inline quotations work in exactly the same way, except that they use the `<q>` element. [from MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#quotations)
 
 Citations:
 
@@ -26,3 +26,10 @@ Citations:
 
 - > However there is a `<cite>` element, but this is meant to contain the title of the resource being quoted, e.g. the name of the book. There is no reason, however, why you couldn't link the text inside `<cite>` to the quote source. [from MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#quotations)
 
+### Abbreviations
+
+The `<abbr>` tag is used to wrap an abbreviation and provide the full term in a tool-tip. The full term is included in the `title` attribute.
+
+### Contact Details
+
+> HTML has an element for marking up contact details — <address>. The <address> element should only be used to provide contact information for the document contained with the nearest <article> or <body> element. ([from MDN web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#marking_up_contact_details))
