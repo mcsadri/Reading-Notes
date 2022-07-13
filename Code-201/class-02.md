@@ -1,5 +1,7 @@
 # Basics of HTML, CSS & JavaScript
 
+HTML, CSS, JavaScript are the three essential layers for a building modern web pages. These notes will provide an introductory review of the basics of each topic.
+
 ## HTML Text Fundamentals: Advanced Text Formatting
 
 ### Description Lists
