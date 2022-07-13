@@ -11,8 +11,8 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 201 Reading Notes
 
-1. [Code 201 - Class 01](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
-2. tbd
+1. [Class 01 - Getting Started](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
+2. [Class 02 - Basics of HTML, CSS & JavaScript](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-02.md)
 3. tbd
 4. tbd
 5. tbd
