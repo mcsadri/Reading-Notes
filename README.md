@@ -13,8 +13,8 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 1. [Class 01 - Getting Started](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
 2. [Class 02 - Basics of HTML, CSS & JavaScript](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-02.md)
-3. tbd
-4. tbd
+3. [Class 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-03.md)
+4. tbd 
 5. tbd
 6. tbd
 7. tbd
