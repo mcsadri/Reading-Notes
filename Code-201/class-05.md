@@ -38,7 +38,7 @@
 > | Diagrams, drawings, and charts | SVG | PNG | SVG is the best choice for any image that can be represented using vector graphics |
 > ([from MDN docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#choosing_an_image_format))
 
-### Review Questions
+### Review Questions #1
 
 ---
 
@@ -63,7 +63,7 @@
   - `background-color`
   - `test-shadow`
   - `text-decoration-color`
-  - ` text-emphasis-color`
+  - `text-emphasis-color`
   - `caret-color`
 - Boxes:
   - [Borders](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color#borders)
@@ -108,9 +108,7 @@
 > - A forward slash has to be put in between the `font-size` and `line-height` properties.
 > ([from MDN docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#font_shorthand))
 
-
-
-### Review Questions
+### Review Questions #2
 
 ---
 
