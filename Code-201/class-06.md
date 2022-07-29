@@ -84,7 +84,6 @@ The **Document Object Model** (*DOM*) is the data representation of the objects 
 >   - the `window` object represents something like the browser
 >   - the `document` object is the root of the document itself
 > - `Element` inherits from the generic `Node` interface, and together these two interfaces provide many of the methods and properties you use on individual elements
-
 > - Some common APIs in web and XML page scripting using the DOM.
 >   - document.querySelector(selector)
 >   - document.querySelectorAll(name)
