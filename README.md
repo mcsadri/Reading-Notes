@@ -18,7 +18,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 5. [Class 05 - HTML Images, CSS Color & Text](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-05.md)
 6. [Class 06 - JavaScript Object Literals, and DOM Corleone](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-06.md)
 7. [Class 07 - Object-Oriented Programming, HTML Tables](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-07.md)
-8. tbd
+8. [Class 08 - Self-loathing with More CSS Layout](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-08.md)
 9. tbd
 10. tbd
 11. tbd
