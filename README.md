@@ -23,7 +23,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 10. [Class 10 - Debugging JavaScript](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-10.md)
 11. [Class 11 - Audio, Video, Images](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-11.md)
 12. [Class 12 - HTML `<canvas>` Element, Chart.js](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-12.md)
-13. tbd
+13. [Class 13 - Local Storage](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-13.md)
 14. tbd
 15. tbd
 
