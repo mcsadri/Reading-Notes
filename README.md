@@ -24,8 +24,8 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 11. [Class 11 - Audio, Video, Images](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-11.md)
 12. [Class 12 - HTML `<canvas>` Element, Chart.js](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-12.md)
 13. [Class 13 - Local Storage](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-13.md)
-14. [Class 14 - CSS Transforms, Transitions, and Animations](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-14.md)
-15. tbd
+14. [Class 14a - CSS Transforms, Transitions, and Animations](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-14a.md)
+15. [Class 14b - What Google Learned About Teams](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-14b.md)
 
 ### Code 102 Reading Notes
 
