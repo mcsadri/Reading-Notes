@@ -9,6 +9,28 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ## Reading Notes Table of Contents
 
+### Code 301 Reading Notes
+
+- [prework: ES6 Arrow Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/prework-ES6-arrow-functions.md)
+- [prework: ES6 Classes](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/doodah.md)
+- [prework: Introduction to React and Components](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/doodah.md)
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
 ### Code 201 Reading Notes
 
 1. [Class 01 - Getting Started](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
