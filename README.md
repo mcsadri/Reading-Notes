@@ -9,7 +9,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ## Reading Notes Table of Contents
 
-### Code 301 Reading Notes
+### Code 301 - Intermediate Software Development
 
 - [prework: ES6 Arrow Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/prework-ES6-arrow-functions.md)
 - [prework: ES6 Classes](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/doodah.md)
@@ -31,7 +31,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 14.
 15.
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 1. [Class 01 - Getting Started](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-01.md)
 2. [Class 02 - Basics of HTML, CSS & JavaScript](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-02.md)
@@ -49,7 +49,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 14. [Class 14a - CSS Transforms, Transitions, and Animations](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-14a.md)
 15. [Class 14b - What Google Learned About Teams](https://github.com/mcsadri/Reading-Notes/blob/main/Code-201/class-14b.md)
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 1. [Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/growth.md)
 2. [Code 102: Day 1](https://github.com/mcsadri/Reading-Notes/blob/main/Code-102/markdown.md)
