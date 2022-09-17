@@ -15,21 +15,21 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 - [prework: ES6 Classes](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/doodah.md)
 - [prework: Introduction to React and Components](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/doodah.md)
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
+15.  
 
 ### Code 201 - Foundations of Software Development
 
