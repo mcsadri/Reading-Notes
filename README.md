@@ -14,7 +14,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 - [prep: ES6 Arrow Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/prep-ES6-arrow-functions.md)
 
 1. [Class 01 - Introduction to React and Components](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-01.md)
-2.  
+2. [Class 02 - States and Props](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-01.md)
 3.  
 4.  
 5.  
