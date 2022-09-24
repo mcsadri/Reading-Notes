@@ -27,7 +27,7 @@
     3. Name strings
 2. What is the big difference between props and state?
     1. Props handled outside of a component, but are are passed into it.
-    2. State is handled inside a compontent. 
+    2. State is handled inside a compontent.
 3. When do we re-render our application?
     1. When state changes in a component it re-renders that portion of the application.
 4. What are some examples of things that we could store in state?
