@@ -2,7 +2,7 @@
 
 ## Read
 
-## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+### [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 1. What does .map() return?
     1. The map() method creates a new array populated with the results of calling a provided function on every element in the calling array.
@@ -59,7 +59,7 @@
 
 ## Watch
 
-## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+### [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 1. In the video, what is the first step that the developer does to pass functions between components?
     1. Adds the expression `increment={this.increment}` to their Person object to pass the prop to the child component. And then calls the method from child component with `this.props.increment()`.
@@ -79,5 +79,5 @@
 
 ## Further Reading
 
-[React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
-[React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+[React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)  
+[React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)  
