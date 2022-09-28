@@ -16,7 +16,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 1. [Class 01 - Introduction to React and Components](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-01.md)
 2. [Class 02 - States and Props](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-02.md)
 3. [Class 03 - Passing Functions as Props](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-03.md)
-4.  
+4. [Class 04 - React and Forms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-04.md)
 5.  
 6.  
 7.  
