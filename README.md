@@ -19,7 +19,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 4. [Class 04 - React and Forms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-04.md)
 5. [Class 05 - Putting it all together](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-05.md)
 6. [Class 06 - Node.js](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-06.md)
-7.  
+7. [Class 07 - REST & API Keys](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-07.md)
 8.  
 9.  
 10.  
