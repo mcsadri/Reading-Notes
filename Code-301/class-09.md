@@ -22,10 +22,10 @@
 
 #### Extra
 
--[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
--[Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
--[Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
--[Imperative vs Declarative Programming](https://ui.dev/imperative-vs-declarative-programming)
+-[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)  
+-[Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)  
+-[Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)  
+-[Imperative vs Declarative Programming](https://ui.dev/imperative-vs-declarative-programming)  
 
 ## Videos
 
