@@ -23,7 +23,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 8. [Class 08 - APIs](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-08.md)
 9. [Class 09 - Functional Programming](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-09.md)
 10. [Class 10 - In Memory Storage](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-10.md)
-11.  
+11. [Class 11 - Mongo and Mongoose](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-11.md)
 12.  
 13.  
 14.  
