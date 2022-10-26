@@ -26,10 +26,18 @@
 ### [Build A REST API With Node.js, Express, & MongoDB - Quick (First 20 minutes)](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+    1. The deployed app will use something other than localhost. And it obfuscates the URL, values, etc. stored in the .env file.
 2. What is middleware?
+    1. Code that runs when the server gets a request but before it gets passed to the routes.
 3. What does `app.use(express.json())` do?
+    1. Let's the server accept JSON as a body instead of a post element, get element, etc.
 4. What does the `/:id` mean in a route?
+    1. It is a parameter accessed by `req.params.id`.
 5. What is the difference between `PUT` and `PATCH`?
+    1. "**PUT** means replace the entire resource with given data (so null out fields if they are not provided in therequest), while **PATCH** means replace only specified fields." [ServiceNow](https://www.servicenow.com/community/developer-forum/difference-between-put-and-patch-in-rest-api/m-p/1876811)
 6. How do you make a default value in a schema?
+    1. Use the default property in the schema definition.
 7. What does a `500` error status code mean?
+    1. Error exists on the server, not the user or client.
 8. What is the difference between a status `200` and a status `201`?
+    1. 201 means "successfully created an object". 200 means "everything was successful", which is less informative/specific than 201.
