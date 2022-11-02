@@ -1,4 +1,4 @@
-# [C.R.U.D. 2: Bud the Crud](https://www.imdb.com/title/tt0097001/)
+# [C.R.U.D. 2](https://www.imdb.com/title/tt0097001/)
 
 ## Reading
 
