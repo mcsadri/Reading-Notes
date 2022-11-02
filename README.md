@@ -25,7 +25,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 10. [Class 10 - In Memory Storage](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-10.md)
 11. [Class 11 - Mongo and Mongoose](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-11.md)
 12. [Class 12 - CRUD](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-12.md)
-13.  
+13. [Class 13 - CRUD 2: CRUDing Again, the long-awaited sequel](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-13.md)
 14. [Class 14 - Diversity & Inclusion in the Tech Industry](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-14.md)
 15.  
 
