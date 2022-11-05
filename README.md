@@ -27,7 +27,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 12. [Class 12 - CRUD](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-12.md)
 13. [Class 13 - CRUD 2: CRUDing Again, the long-awaited sequel](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-13.md)
 14. [Class 14 - Diversity & Inclusion in the Tech Industry](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-14.md)
-15.  
+15. [Class 15 - Authentication](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/class-14.md)
 
 ### Code 201 - Foundations of Software Development
 
