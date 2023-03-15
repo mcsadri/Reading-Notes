@@ -9,6 +9,21 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ## Reading Notes Table of Contents
 
+### Code 401 - Advanced Software Development in Python
+
+- pre-work: TBD
+
+1. Class 01 - TBD
+2. Class 02 - TBD
+3. Class 03 - TBD
+4. Class 04 - TBD
+5. Class 05 - TBD
+6. Class 06 - TBD
+7. Class 07 - TBD
+8. Class 08 - TBD
+9. Class 09 - TBD
+10. Class 10 - TBD
+
 ### Code 301 - Intermediate Software Development
 
 - [prep: ES6 Arrow Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-301/prep-ES6-arrow-functions.md)
