@@ -15,8 +15,8 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 - [prep - Data Structures & Algorithms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-02.md)
 - [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03.md)
 
-1. [Class 01 - Introduction to React and Components](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
-2. Class 02 - TBD
+1. [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
+2. [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
 3. Class 03 - TBD
 4. Class 04 - TBD
 5. Class 05 - TBD
