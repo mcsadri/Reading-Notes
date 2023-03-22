@@ -112,8 +112,8 @@ printFun(test)
 
 ## Additional Resources
 
--[Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
--[Google for Education: Python Strings](https://developers.google.com/edu/python/strings)
--[Python Modules and Packages](https://realpython.com/python-modules-packages/)
--[Pytest Documentation](https://docs.pytest.org/en/latest/)
--[PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html): Up to section `Running tests in parallel`
+- [Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
+- [Google for Education: Python Strings](https://developers.google.com/edu/python/strings)
+- [Python Modules and Packages](https://realpython.com/python-modules-packages/)
+- [Pytest Documentation](https://docs.pytest.org/en/latest/)
+- [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html): Up to section `Running tests in parallel`
