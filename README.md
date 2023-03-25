@@ -17,14 +17,15 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 1. [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
 2. [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
-3. Class 03 - TBD
+3. [Class 03 - FileIO & Exceptions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-03.md)
 4. Class 04 - TBD
 5. Class 05 - TBD
 6. Class 06 - TBD
 7. Class 07 - TBD
 8. Class 08 - TBD
 9. Class 09 - TBD
-10. Class 10 - TBD
+10. Class 10 - TBD  
+∞
 
 ### Code 301 - Intermediate Software Development
 
