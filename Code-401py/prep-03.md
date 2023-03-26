@@ -11,3 +11,7 @@ Some common SQL commands include:
 - CREATE: used to create a new database table
 - ALTER: used to add, remove, or modify columns in a table
 - DROP: used to remove an entire table including all of its data and metadata
+
+![SQL Bolt - exercises 1-6](./Code-401py/assets/prep_Introduction_to_SQL_1-6.jpg)
+
+![SQL Bolt - exercises 13-18](./Code-401py/assets/prep_Introduction_to_SQL_13-18.jpg)
