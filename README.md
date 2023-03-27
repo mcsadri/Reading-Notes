@@ -14,7 +14,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 - prep - Engineering Readings
 - prep - Data Structures & Algorithms
 - [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)
-- [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04.md)
+- [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)
 - prep - The Growth Mindset
 
 1. [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
