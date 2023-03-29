@@ -25,6 +25,16 @@ init()
 
 ### [Thinking Recursively](https://realpython.com/python-thinking-recursively/) (Optional:`Naive Recursion` is Naive section and beyond)
 
+> - A recursive function is a function defined in terms of itself via self-referential expressions.
+> - A recursive function will continue to call itself and repeat its behavior until some condition is met to return a result.
+> - All recursive functions share a common structure made up of two parts: base case and recursive case.
+
+Maintaining State:
+
+> - When dealing with recursive functions, each recursive call has its own execution context, so to maintain state during recursion you have to either:
+>   - Thread the state through each recursive call so that the current state is part of the current call’s execution context
+>   - Keep the state in global scope
+
 ### [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
 
 ---
