@@ -21,7 +21,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 2. [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
 3. [Class 03 - FileIO & Exceptions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-03.md)
 4. [Class 04 - Classes and Objects, Recursion, & pytest](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-04.md)
-5. Class 05 - TBD
+5. [Class 05 - Linked Lists](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-05.md)
 6. Class 06 - TBD
 7. Class 07 - TBD
 8. Class 08 - TBD
