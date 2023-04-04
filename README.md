@@ -11,7 +11,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 401 - Advanced Software Development in Python
 
-- prep - Engineering Readings
+- [prep - Engineering Readings](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-01-eng.md)
 - prep - Data Structures & Algorithms
 - [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)
 - [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)
