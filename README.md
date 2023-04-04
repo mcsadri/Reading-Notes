@@ -11,18 +11,16 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 401 - Advanced Software Development in Python
 
-
-
-1. [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
-2. [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
-3. [Class 03 - FileIO & Exceptions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-03.md)
-4. [Class 04 - Classes and Objects, Recursion, & pytest](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-04.md)
-5. [Class 05 - Linked Lists](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-05.md)
-6. Class 06 - TBD
-7. Class 07 - TBD
-8. Class 08 - TBD
-9. Class 09 - TBD
-10. Class 10 - TBD  
+- Class 10 - TBD  
+- Class 09 - TBD
+- Class 08 - TBD
+- Class 07 - TBD
+- Class 06 - TBD
+- [Class 05 - Linked Lists](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-05.md)
+- [Class 04 - Classes and Objects, Recursion, & pytest](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-04.md)
+- [Class 03 - FileIO & Exceptions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-03.md)
+- [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
+- [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
 
 - [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md)
 - [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)
