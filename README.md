@@ -20,15 +20,13 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 7. Class 07 - TBD
 8. Class 08 - TBD
 9. Class 09 - TBD
-10. Class 10 - TBD  
+10. Class 10 - TBD
 
-
-
-- [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md)
-- [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)
-- [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)
-- [prep - Data Structures & Algorithms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-02-dsa.md)
-- [prep - Engineering Readings](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-01-eng.md)
+  [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md)  
+  [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)  
+  [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)  
+  [prep - Data Structures & Algorithms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-02-dsa.md)  
+  [prep - Engineering Readings](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-01-eng.md)  
 
 ### Code 301 - Intermediate Software Development
 
