@@ -71,6 +71,27 @@ Test coverage. Aka code coverage.
 
 ### [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 
+- 4 important rules to know with the Big O:
+  - if you have two different steps in your algorithm, you add up those steps
+    - if you have a first step that takes O of A time and a second step that takes O of B you would add up those run times and you get Oof A plus B
+
+    ```pseudo
+    function doodah():
+      do_step_1()     // O(a)
+      do_step_2()     // O(b)
+                      // O(a+b)
+    ```
+
+  - drop constants
+    - You do not describe things as O of 2n or O of 3n because you're just looking for how things scale roughly. Is it a linearrelationship, is it a quadratic relationship, so you always drop constants.
+  - if you have different inputs you're usually going to use different variables to represent them
+    - we have two arrays and we're walking through them to figure out the number of elements in common between the two arrays
+      - incorrect: O(N^2)
+      - correct: O(a * b)
+        - a = len of array a, b = len of array b
+    - drop non-dominant terms
+      - `¯\_(ツ)_/¯`
+
 ## Bookmark & Review
 
 ### [Python Random](https://docs.python.org/3/library/random.html)
