@@ -11,6 +11,12 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 
 ### Code 401 - Advanced Software Development in Python
 
+  [prep - Engineering Readings](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-01-eng.md)  
+  [prep - Data Structures & Algorithms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-02-dsa.md) 
+  [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)  
+  [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)  
+  [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md)  
+
 1. [Class 01 - Intro to 401](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-01.md)
 2. [Class 02 - Testing and Modules](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-02.md)
 3. [Class 03 - FileIO & Exceptions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-03.md)
@@ -18,15 +24,19 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 5. [Class 05 - Linked Lists](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-05.md)
 6. [Class 06 - Ten Thousand Game 1](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-06.md)
 7. [Class 07 - Ten Thousand Game 2](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-07.md)
-8. Class 08 - TBD
+8. [Class 08 - Ten Thousand Game 3](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-08.md)
 9. Class 09 - TBD
 10. Class 10 - TBD
-
-  [prep - The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md)  
-  [prep - CLI](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-04-cli.md)  
-  [prep - SQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-03-sql.md)  
-  [prep - Data Structures & Algorithms](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-02-dsa.md)  
-  [prep - Engineering Readings](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-01-eng.md)  
+11. Class 11 - TBD
+12. Class 12 - TBD
+13. Class 13 - TBD
+14. Class 14 - TBD
+15. Class 15 - TBD
+16. Class 16 - TBD
+17. Class 17 - TBD
+18. Class 18 - TBD
+19. Class 19 - TBD
+20. Class 20 - TBD
 
 ### Code 301 - Intermediate Software Development
 
