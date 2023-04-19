@@ -2,7 +2,7 @@
 
 ## Cheat Sheet
 
-## Stacks
+### Stacks
 
 - Definition: A **stack** is a linear data structure that follows the FILO/LIFO principle. This means that:
   - FILO: the first item added in the stack will be the last item popped out of the stack.
@@ -20,7 +20,7 @@
   - Function call stack in programming languages.
   - Balancing symbols (parentheses, brackets, etc.) in code.
 
-## Queues
+### Queues
 
 - Definition: A **queue** is a linear data structure that follows the FIFO/LILO principle. This means that:
   - FIFO: the first item in the queue will be the first item out of the queue.
