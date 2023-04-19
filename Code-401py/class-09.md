@@ -90,4 +90,3 @@
 - In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
 
 - Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
->>>>>>> 1415797d96f77873b8275e9ab8d8c40792345dc2
