@@ -28,7 +28,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 9. [Class 09 - Ten Thousand Game 4](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-09.md)
 10. [Class 10 - Stacks & Queues](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-10.md)
 11. [Class 11 - Data Analysis](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-11.md)
-12. Class 12 - TBD
+12. [Class 12 - Pandas](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-12.md)
 13. Class 13 - TBD
 14. Class 14 - TBD
 15. Class 15 - TBD
