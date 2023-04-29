@@ -29,7 +29,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 10. [Class 10 - Stacks & Queues](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-10.md)
 11. [Class 11 - Data Analysis](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-11.md)
 12. [Class 12 - Pandas](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-12.md)
-13. Class 13 - TBD
+13. [Class 13 - Linear Regressions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-13.md)
 14. Class 14 - TBD
 15. Class 15 - TBD
 16. Class 16 - TBD
