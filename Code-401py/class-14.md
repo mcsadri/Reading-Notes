@@ -36,15 +36,15 @@
   - "Matplotlib is a library in Python that enables users to generate visualizations like histograms, scatter plots, bar charts, pie charts and much more. Seaborn is a visualization library that is built on top of Matplotlib. It provides data visualizations that are typically more aesthetic and statistically sophisticated." [Python Data Visualization With Seaborn & Matplotlib | Built In](https://builtin.com/data-science/data-visualization-tutorial#:~:text=Matplotlib%20is%20a%20library%20in,more%20aesthetic%20and%20statistically%20sophisticated.)
 
 - In the Seaborn library, what are the main functions to create relational, categorical, and distribution plots? Briefly explain the purpose of each type of plot and provide an example use case.
-  - relplot / relational
+  - relplot / relational: used to compare the relationship of an x and y variable
     - scatterplot
     - lineplot
-  - displot / distributions
+  - displot / distributions: used for accessing the distribution of data
     - histplot
     - kdeplot
     - ecdfplot
     - rugplot
-  - catplot / categorical
+  - catplot / categorical: used for categorising data
     - stripplot
     - swarmplot
     - boxplot
