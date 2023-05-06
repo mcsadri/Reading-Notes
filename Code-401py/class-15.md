@@ -74,7 +74,7 @@
   - Post-order traversal: `left >> right >> root`
 - Breadth First: traversal iterates through the tree by going through each level of the tree node-by-node.
 
-#### Time Complexity
+#### Big O
 
 - Time:
   - Inserting a new node is `O(n)`.
