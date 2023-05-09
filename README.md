@@ -23,7 +23,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 | [The Growth Mindset](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/prep-05-gro.md) | [Class 05 - Linked Lists]( https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-05.md ) | [Class 10 - Stacks & Queues]( https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-10.md ) |
 |  |  |  |
 | **Module 3** | **Module 4** | **Module 6** |
-| [Class 11 - Data Analysis](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-11.md) | Class 16 - Serverless Functions | Class 26 - Intro to Django |
+| [Class 11 - Data Analysis](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-11.md) | [Class 16 - Serverless Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-16.md) | Class 26 - Intro to Django |
 | [Class 12 - Pandas](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-12.md) | Class 17 - Web Scraping| Class 27 - Django Models |
 | [Class 13 - Linear Regressions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-13.md) | Class 18 - Cryptography | Class 28 - Django CRUD and Forms |
 | [Class 14 - Data Visualization](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-14.md) | Class 19 - Automation | Class x9 - DjangoX |
