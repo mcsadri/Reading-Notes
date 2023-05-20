@@ -26,7 +26,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 | [Class 11 - Data Analysis](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-11.md) | [Class 16 - Serverless Functions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-16.md) | Class 26 - Intro to Django |
 | [Class 12 - Pandas](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-12.md) | [Class 17 - Web Scraping](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-17.md) | Class 27 - Django Models |
 | [Class 13 - Linear Regressions](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-13.md) | [Class 18 - Cryptography](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-18.md) | Class 28 - Django CRUD and Forms |
-| [Class 14 - Data Visualization](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-14.md) | Class 19 - Automation | Class x9 - DjangoX |
+| [Class 14 - Data Visualization](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-14.md) | [Class 19 - Automation](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-19.md) | Class x9 - DjangoX |
 | [Class 15 - Trees](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-15.md) | Class 20 - Project Kickoffs | Class 30 - Hash Tables, Behavioral Interviewing |
 |  |  |  |
 | **Module 7** | **Module 8** | **Module 9** |
