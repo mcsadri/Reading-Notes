@@ -44,7 +44,6 @@
         - Django's `filter()` method allows us to filter the returned `QuerySet` to match a specified text or numeric field against particular criteria.
         - The fields to match and the type of match are defined in the filter parameter name, using the format: `field_name__match_type` (note the double underscore between `title` and `contains` above).
 
-
 - [Django Admin](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)
 
 - [Beginner’s Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
