@@ -41,7 +41,7 @@
     - If a value falls outside our range we raise a `ValidationError`, specifying the error text that we want to display in the form if an invalid value is entered.
     - There are numerous other methods and examples for validating forms in [Form and field validation](https://docs.djangoproject.com/en/4.0/ref/forms/validation/) (Django docs).
   - URL configuration
-    - ¯\_(ツ)_/¯
+    - ¯\\_(ツ)_/¯
   - View
     - the view has to render the default form when it is first called and then either re-render it with error messages if the data is invalid, or process the data and redirect to a new page if the data is valid.
     - For forms that use a `POST` request to submit information to the server, the most common pattern is for the view to test against the `POST` request type (`if request.method == 'POST':`) to identify form validation requests and `GET` (using an `else` condition) to identify the initial form creation request.
