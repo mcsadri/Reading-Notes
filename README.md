@@ -30,7 +30,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 | [Class 15 - Trees](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-15.md) | Class 20 - Project Kickoffs | Class 30 - Hash Tables, Behavioral Interviewing |
 |  |  |  |
 | **Module 7** | **Module 8** | **Module 9** |
-| Class 31 - Django REST Framework & Docker | Class 36 - DS&A Review | Class 41 - Full Stack Deployment |
+| [Class 31 - Django REST Framework & Docker](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-31.md) | Class 36 - DS&A Review | Class 41 - Full Stack Deployment |
 | Class 32 - Permissions & PostgreSQL | Class 37 - Reacts + Next.JS | Class 42 - Pythonisms |
 | Class 33 - Authentication & Production Server | Class 38 - React - Forms & Conditional Rendering | Class 43 - Open Source |
 | Class 34 - Back End Deployment | Class 39 - Resource Fetching & Authentication | Class 44 - Ethics |
