@@ -42,6 +42,63 @@
 
 - Containers
   - The `docker-compose.yml` file is a list of container instructions.
+  - Creating a new Django project from scratch:
+    - create a new `Pipfile` and a `Pipfile.lock`
+      - $ `mkdir djangoapp && cd djangoapp`
+      - $ `pipenv install django==3.0`
+      - $ `pipenv shell`
+    - create an `example_project` in current directory
+      - $ `django-admin startproject example_project .`
+    - then runserver
+      - $ `python manage.py runserver`
+    - Stop server and exit venv after validating proof of life
+
+- Dockerized Django
+  - Create a Dockerfile for the image which will completely replace the local dev environment, so this will have Python 3 and Django.
+    - $ `touch Dockerfile`
+      - This `Dockerfile` has several commands. `RUN`, `COPY`, and `ADD` each create a new layer.
+      - Order matters in Dockerfiles since they are executed from top-to-bottom.
+
+      ```shell
+      # Dockerfile
+
+      # Python version
+      FROM python:3.7-alpine
+
+      # Set environment variables
+      ENV PYTHONDONTWRITEBYTECODE 1
+      ENV PYTHONUNBUFFERED 1
+
+      # Set work directory
+      WORKDIR /code
+
+      # Install dependencies
+      COPY Pipfile Pipfile.lock /code/
+      RUN pip install pipenv && pipenv install --system
+
+      # Copy project
+      COPY . /code/
+      ```
+
+  - Then add a docker-compose.yml for the container instructions
+    - $ `touch docker-compose.yml`
+
+      ```shell
+      # docker-compose.yml
+      version: '3.7'
+
+      services:
+        web:
+          build: .
+          command: python /code/manage.py runserver 0.0.0.0:8000
+          volumes:
+            - .:/code
+          ports:
+            - 8000:8000
+      ```
+
+  - Instead of running separate commands to build the image and run the container we can do that with one now
+    - $ `docker-compose up --build`
 
 ### [Django for APIs - Library Website](https://djangoforapis.com/library-website-and-api/)
 
