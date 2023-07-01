@@ -7,6 +7,7 @@
 - Linux containers
   - Docker is really just Linux containers which are a type of virtualization.
   - virtual machines are complete copies of a computer system from the operating system on up.
+  - virtualized containers are _____________________
     - What’s the downside to a virtual machine? Size and speed.
   - Docker is a way to implement Linux containers
 
