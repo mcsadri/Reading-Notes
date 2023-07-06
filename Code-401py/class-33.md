@@ -35,6 +35,14 @@
 
 - [Django Runserver Is Not Your Production Server](https://build.vsupalov.com/django-runserver-in-production/)
 
+  - the server started with runserver is not guaranteed to be performant (it’s very slow), and it hasn’t been built with security concerns in mind. Not a good fit for production use.
+  - When a request arrives at your server, it should be passed to a dedicated `web server`.
+    - Nginx is an example for a good web server.
+  - The next component is an `application server`.
+    - [WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) is a specification which people agreed on, which describe how that happens. [Gunicorn](https://vsupalov.com/what-is-gunicorn/) is an example for a WSGI server.
+  - Your project provides a uwsgi.py file, which contains a function to be called by the application server. This function gets a Python object representing the incoming request.
+    - This function calls your code, and produces a response object which is passed to the WSGI server. There the response is translated into a HTTP response and is passed back to the web server, which finally delivers it to the user.
+
 ## Videos
 
 - [JWT with DRF](https://www.youtube.com/watch?v=Fhcn2qx-4VQ)
