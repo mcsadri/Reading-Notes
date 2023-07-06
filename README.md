@@ -32,7 +32,7 @@ Hi! I'm Manuch. Pronounced something like: Maa-nootch. My pronouns are he/him/hi
 | **Module 7** | **Module 8** | **Module 9** |
 | [Class 31 - Django REST Framework & Docker](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-31.md) | Class 36 - DS&A Review | Class 41 - Full Stack Deployment |
 | [Class 32 - Permissions & PostgreSQL](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-32.md) | Class 37 - Reacts + Next.JS | Class 42 - Pythonisms |
-| Class 33 - Authentication & Production Server | Class 38 - React - Forms & Conditional Rendering | Class 43 - Open Source |
+| [Class 33 - Authentication & Production Server](https://github.com/mcsadri/Reading-Notes/blob/main/Code-401py/class-33.md) | Class 38 - React - Forms & Conditional Rendering | Class 43 - Open Source |
 | Class 34 - Back End Deployment | Class 39 - Resource Fetching & Authentication | Class 44 - Ethics |
 | Class 35 - Graphs, Technical Interviewing | Class 40 - Personal Presentation | Class 45 - Project Kickoffs|
 
