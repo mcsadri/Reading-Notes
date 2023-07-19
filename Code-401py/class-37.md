@@ -83,6 +83,15 @@
 
 ### [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
 
+- Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen.
+- Unlike browser DOM elements, React elements are plain objects.
+- Rendering an Element into the DOM
+  - To render a React element, first pass the DOM element to `ReactDOM.createRoot()`, then pass the React element to `root.render()`.
+- Updating the Rendered Element
+  - React elements are immutable. You can’t change its children or attributes.
+- React Only Updates What’s Necessary
+  - React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
+
 ### [React - Components & Props](https://reactjs.org/docs/components-and-props.html)
 
 ### [React - State & Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
