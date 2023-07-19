@@ -147,10 +147,18 @@
 - Passing Arguments to Event Handlers
   - Inside a loop, it is common to want to pass an extra parameter to an event handler.
 
-
 ## Tailwind CSS
 
 ### [Utility First CSS](https://tailwindcss.com/docs/utility-first)
+
+- Traditionally, whenever you need to style something on the web, you write CSS.
+- With Tailwind, you style elements by applying pre-existing classes directly in your HTML.
+- Tailwind allows us to implement a completely custom component design without writing a single line of custom CSS.
+- Using utility classes has a few important advantages over inline styles:
+  - Designing with contstraints
+  - Responsive design
+  - Hover, focus, and other states
+- The biggest maintainability concern when using a utility-first approach is managing commonly repeated utility combinations.
 
 ### [Tailwind in a few min minutes](https://www.youtube.com/watch?v=pB1oed_10IA)
 
