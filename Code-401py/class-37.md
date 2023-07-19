@@ -94,9 +94,59 @@
 
 ### [React - Components & Props](https://reactjs.org/docs/components-and-props.html)
 
+- Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+- Conceptually, components are like JavaScript functions.
+- Function and Class Components
+  - The simplest way to define a component is to write a JavaScript function
+- Rendering a Component
+  - When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object “props”.
+- Composing Components
+  - Components can refer to other components in their output
+- Extracting Components
+  - A good rule of thumb is that if a part of your UI is used several times (`Button`, `Panel`, `Avatar`), or is complex enough on its own (`App`, `FeedStory`, `Comment`), it is a good candidate to be extracted to a separate component.
+- Props are Read-Only
+  - Whether you declare a component as a function or a class, it must never modify its own props
+  - All React components must act like pure functions with respect to their props.
+
 ### [React - State & Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
+- State is similar to props, but it is private and fully controlled by the component.
+- Converting a Function to a Class
+
+  > - Create an ES6 class, with the same name, that extends React.Component.
+  > - Add a single empty method to it called render().
+  > - Move the body of the function into the render() method.
+  > - Replace props with this.props in the render() body.
+  > - Delete the remaining empty function declaration.
+
+- Adding Local State to a Class
+  - Class components should always call the base constructor with `props`.
+- Adding Lifecycle Methods to a Class
+  - In applications with many components, it’s very important to free up resources taken by the components when they are destroyed.
+  - We can declare special methods on the component class to run some code when a component mounts and unmounts
+  - These methods are called “lifecycle methods”.
+- Using State Correctly
+  - There are three things you should know about `setState()`:
+    - Do Not Modify State Directly
+    - State Updates May Be Asynchronous
+    - State Updates are Merged
+- The Data Flows Down
+  - Neither parent nor child components can know if a certain component is stateful or stateless, and they shouldn’t care whether it is defined as a function or a class.
+  - This is why state is often called local or encapsulated. It is not accessible to any component other than the one that owns and sets it.
+  - A component may choose to pass its state down as props to its child components
+  - This is commonly called a “top-down” or “unidirectional” data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components “below” them.
+
 ### [React - Handling Events](https://reactjs.org/docs/handling-events.html)
+
+- Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
+  - React events are named using camelCase, rather than lowercase.
+  - With JSX you pass a function as the event handler, rather than a string.
+  - Another difference is that you cannot return false to prevent default behavior in React. You must call preventDefault explicitly.
+- When you define a component using an ES6 class, a common pattern is for an event handler to be a method on the class.
+- In JavaScript, class methods are not bound by default. If you forget to bind this.handleClick and pass it to onClick, this will be undefined when the function is actually called.
+- Passing Arguments to Event Handlers
+  - Inside a loop, it is common to want to pass an extra parameter to an event handler.
+
 
 ## Tailwind CSS
 
