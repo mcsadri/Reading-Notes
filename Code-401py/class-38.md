@@ -1,4 +1,4 @@
-# Ract 2
+# React 2
 
 ## Reading
 
@@ -14,6 +14,8 @@
   - Returning `null` from a component’s render method does not affect the firing of the component’s lifecycle methods.
 
 ### [React - Lists & Keys](https://reactjs.org/docs/lists-and-keys.html)
+
+- 
 
 ### [React - Forms](https://reactjs.org/docs/forms.html)
 
